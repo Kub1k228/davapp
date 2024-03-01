@@ -11,7 +11,7 @@ import SwiftUI
 struct davappApp: App {
     var body: some Scene {
         WindowGroup {
-            Logipage()
+            LogPage()
         }
     }
 }
